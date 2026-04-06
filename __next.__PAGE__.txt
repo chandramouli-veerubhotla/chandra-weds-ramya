@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 2:I[47257,["/chandra-weds-ramya/_next/static/chunks/062a7oajbopv_.js","/chandra-weds-ramya/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
-3:I[74647,["/chandra-weds-ramya/_next/static/chunks/062a7oajbopv_.js","/chandra-weds-ramya/_next/static/chunks/0dbhjjzl8qfwv.js","/chandra-weds-ramya/_next/static/chunks/0lcsb2up~aof1.js"],"default"]
+3:I[74647,["/chandra-weds-ramya/_next/static/chunks/062a7oajbopv_.js","/chandra-weds-ramya/_next/static/chunks/0dbhjjzl8qfwv.js","/chandra-weds-ramya/_next/static/chunks/0d0mky49k4zx0.js"],"default"]
 6:I[97367,["/chandra-weds-ramya/_next/static/chunks/062a7oajbopv_.js","/chandra-weds-ramya/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/chandra-weds-ramya/_next/static/chunks/0aoc45zhhguff.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/chandra-weds-ramya/_next/static/chunks/0aoc45zhhguff.css","precedence":"next"}],["$","script","script-0",{"src":"/chandra-weds-ramya/_next/static/chunks/0lcsb2up~aof1.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"y0OR64bh8IXFmkiAocvpq"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/chandra-weds-ramya/_next/static/chunks/0aoc45zhhguff.css","precedence":"next"}],["$","script","script-0",{"src":"/chandra-weds-ramya/_next/static/chunks/0d0mky49k4zx0.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"J-O_VDlJqUAaafozLrPHu"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
